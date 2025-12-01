@@ -1,0 +1,26 @@
+[
+  {
+    "trace": "1764530278927",
+    "event": "enqueued"
+  },
+  {
+    "event": "delivered",
+    "trace": "1764530278927"
+  },
+  {
+    "trace": "1764546507451",
+    "event": "enqueued"
+  },
+  {
+    "trace": "1764553806385",
+    "event": "enqueued"
+  },
+  {
+    "event": "delivered",
+    "trace": "1764546507451"
+  },
+  {
+    "event": "delivered",
+    "trace": "1764553806385"
+  }
+]
